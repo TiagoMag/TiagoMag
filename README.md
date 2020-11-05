@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm dynamic young man
+I'm a dynamic young man
 <!--
 **TiagoMag/TiagoMag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
