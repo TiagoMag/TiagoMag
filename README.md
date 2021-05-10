@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMag&layout=compact&theme=onedark)](https://github.com/TiagoMag/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMag&layout=compact&theme=onedark&langs_count=8)](https://github.com/TiagoMag/)
