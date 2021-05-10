@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Network management and virtualization and Cryptography and Information Security
+🌱 I’m currently learning:
+ - Network Management and Virtualization
+ - Cryptography and Information Security
 <!--
 **TiagoMag/TiagoMag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
