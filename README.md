@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 😄 I’m Tiago, a software engineeer student based in Braga, Portugal.
 - 🌱 I’m currently learning:
- - Network Management and Virtualization
- - Cryptography and Information Security
+ -- Network Management and Virtualization
+ -- Cryptography and Information Security
 <!--
 **TiagoMag/TiagoMag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
