@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMag&layout=compact&theme=onedark&langs_count=8)](https://github.com/TiagoMag/)
-
-
-
+---
+### Social links
 <a target="_blank" href="https://www.linkedin.com/in/tiago-magalh">
   <img align="left" alt="LinkedIN" width="30px" src="https://github.com/Zayts3v/Zayts3v/blob/main/LinkedIN.svg" />
 </a>
