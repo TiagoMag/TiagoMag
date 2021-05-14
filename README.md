@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-🌱 I’m currently learning:
+- 😄 I’m Tiago, a software engineeer student based in Braga, Portugal.
+- 🌱 I’m currently learning:
  - Network Management and Virtualization
  - Cryptography and Information Security
 <!--
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 
