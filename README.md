@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 -->
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMag&layout=compact&theme=onedark&langs_count=8)](https://github.com/TiagoMag/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoMag&layout=compact&theme=onedark)](https://github.com/TiagoMag/)
 ---
 ### Social links
 <a target="_blank" href="https://www.linkedin.com/in/tiago-magalh">
